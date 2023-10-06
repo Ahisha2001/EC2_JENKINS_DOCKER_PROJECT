@@ -12,7 +12,7 @@ html {
 	scroll-behavior: smooth;
 }
 body {
-	background: #020202;
+	background: white;
 	font-family: 'Open Sans', sans-serif;
 }
 
@@ -132,10 +132,10 @@ a, button {
 }
 .quote p {
 	font-size: 50px;
-	color: #dcd8d8;
+	color: black;
 }
 .quote .play {
-	margin-top: 20px;
+	margin-top:20px;
 	display: flex;
 	/* justify-content: center; */
 	align-items: center;
